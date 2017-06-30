@@ -117,7 +117,7 @@ concepção mais imediatista e superficial da negociação, como
 primeira maneira para a resolução de conflitos, seria o que pega
 Willian Ury: um “meio básico de se conseguir o que se quer de outrem”.
 
-Howard Raiffa, autor do célebre livro *Arte e ciência da nestagociação*, por sua vez, identificou dois tipos de negociação:
+Howard Raiffa, autor do célebre livro *Arte e ciência da nesgociação*, por sua vez, identificou dois tipos de negociação:
 
 -   **distributiva** – na qual as partes com posições opostas procuram
     maximizar seu ganho uma em relação a outra. Nessa negociação, as
@@ -340,8 +340,8 @@ próprio juiz deve tentar compor as partes antes de tomar uma decisão.
 O importante é enfatizar que a conciliação é muito rápida, pois não
 requer o conhecimento da inter-relação das partes em conflito, já que
 ele inexiste. É o caso de abalroamento de veículos ou de relação de
-consumo, em que as partes não convivem, mas precisamde um terceiro
-apenasparaajudá-las a refletir sobre qual seria a melhor solução para
+consumo, em que as partes não convivem, mas precisam de um terceiro
+apenas para ajudá-las a refletir sobre qual seria a melhor solução para
 a controvérsia e se valeria a pena enfrentar a outra parte de forma
 litigiosa. Por isso, muitos autores destacam que o conciliador pode
 apresentar sugestões, pois seu objetivo é evitar os desgastes de uma
@@ -435,8 +435,7 @@ esse motivo que os autores nem sempre coincidem na maneira de categorizar os mod
 
 De forma geral, pode-se falar de um modelo *tradicional*, proveniente
 do campo empresarial, centrado na satisfação individual das partes e
-que visa à obtenção de um acordo. Este é o modelo da *escola de
-Havard*, que separa as pessoas do problema; enfoca os interesses e não
+que visa à obtenção de um acordo. Este é o modelo da *escola de Harvard*, que separa as pessoas do problema; enfoca os interesses e não
 as posições; cria opções para benefício mútuo e insiste nos
 critérios objetivos.
 
@@ -652,7 +651,7 @@ conflitos, ocasionados pela repressão do mais fraco pelo mais forte.
 
 **Classificação do poder**
 
--   **Poder físico**: que se impõe pela força; encontrase com muita
+-   **Poder físico**: que se impõe pela força; encontra-se com muita
     frequência em conflitos familiares, notadamente em casos em que o
     homem agride fisicamente a mulher e esta se submete, por medo de que
     a agressão se repita.
@@ -960,7 +959,7 @@ outra parte escute e posteriormente reflita sobre os sentimentos
 manifestados.
 
 Com o andamento dos trabalhos de mediação, os mediados aprenderão a
-identificar os interesses, separandoos das posições. Dirigida para
+identificar os interesses, separando-os das posições. Dirigida para
 os interesses, as emoções serão mais aceitas e mais bem entendidas. O
 mediador deve estar ciente de que explosões emocionais podem ocorrer
 durante o processo. O primeiro passo para administrá-las é não reagir
@@ -1080,7 +1079,7 @@ comunitária.
 PRÉ-MEDIAÇÃO
 
 A **Pré-mediação** não é considerada por muitos autores uma etapa
-propriamente dita do processo, por constituirse em um momento ou
+propriamente dita do processo, por constituir-se em um momento ou
 movimento, como prega Folger, de preparação para aqueles que dela
 participarão. Sem entrar no mérito teórico dessa discussão, ela será
 considerada uma etapa para facilitar a compreensão de todo o processo.
@@ -1221,7 +1220,7 @@ instrumento da pergunta.
 É de fundamental importância tomar como referência o que foi dito
 anteriormente, no sentido de que a situação presente é a do conflito,
 cabendo à investigação buscar o passado dessa inter-relação. Assim, o
-mediador deverá iniciar o processo investigativo pelos primeiros momentos da interrelação, ou
+mediador deverá iniciar o processo investigativo pelos primeiros momentos da inter-relação, ou
 mesmo antes desse momento inicial, passando por todas as fases
 vivenciadas pelas partes e identificando, passo a passo, a evolução
 delas e da inter-relação existente. Cabe lembrar, evidentemente, que o
@@ -1256,7 +1255,7 @@ movimento de objetivação tendente ao final do processo com o alcance
 da ou das soluções. Nessa etapa identifica-se cada um dos temas
 objeto de resolução ou transformação. Essa identificação,
 evidentemente, conta, a exemplo de todo o processo, com a colaboração
-do mediador. Tratase, na verdade, de uma pauta de trabalho,
+do mediador. Trata-se, na verdade, de uma pauta de trabalho,
 consensada entre todos os participantes e a ser seguida até o final do
 processo. A propósito desse momento chamado agenda, que marca também o
 rumo do trabalho, é preciso dizer que ele só é possível pela
@@ -1312,7 +1311,7 @@ que se fará mais adiante. Esta iniciativa permite que se aumente o
 poder das partes na busca por soluções melhores e mais criativas.
 
 É neste momento que o mediador deverá usar e abusar de sua
-criatividade, incentivando as partes a também fazêlo. Além disso,
+criatividade, incentivando as partes a também fazê-lo. Além disso,
 ele deve monitorar permanentemente eventuais juízos de valores sobre
 as propostas apresentadas, relembrando sempre o compromisso assumido
 de não emitirem nenhuma avaliação, crítica ou opinião sobre aquelas.
@@ -1661,8 +1660,7 @@ As perguntas podem ser:
 
 -   ***recontextualizantes***: partindo do pressuposto de que as partes
     estão “enredadas” em um jogo sem fim, as perguntas favorecem a
-    mudança da perspectiva delas sobre a disputa ou sobre seus ele-
-    mentos, modelo e história construída, para outra visão, outro
+    mudança da perspectiva delas sobre a disputa ou sobre seus elementos, modelo e história construída, para outra visão, outro
     contexto, alterando a história prévia e a visão da disputa.
 
 As perguntas *recontextualizantes* devem ter por objetivo:
@@ -1684,7 +1682,7 @@ consequências futuras;
 
 **Reformulação ou ressignificação**
 
-Consiste em dar outra formulação aalgo já dito, ou seja, dizer uma
+Consiste em dar outra formulação a algo já dito, ou seja, dizer uma
 mesma coisa de outra forma, com palavras diferentes.
 
 Os mediadores podem recorrer às metáforas para suas reformulações, e
@@ -2057,7 +2055,7 @@ das partes, em momentos de angústia e exacerbação das emoções (Moore).
 **O que mediador não é**:
 
 -   *O mediador não é juiz nem árbitro*: são os mediados que decidem, e
-    não o mediador. Seu papel é ajudálas a tomar as decisões
+    não o mediador. Seu papel é ajudá-las a tomar as decisões
     conscientemente, responsabilizando-se por elas. Já o juiz ou o
     árbitro, embora também sejam terceiras partes, têm o poder de
     julgar, decidir e arbitrar.
@@ -2066,8 +2064,7 @@ das partes, em momentos de angústia e exacerbação das emoções (Moore).
     “possíveis”, não defende esta ou aquela parte; em vez disso,
     preocupa-se igualmente com ambas, com imparcialidade e respeitando
     a equidade. O advogado vê o problema apresentado pelas partes como
-    uma questão legal (ver mais informações no tópico 3 deste capí-
-    tulo). Para o mediador, o problema é percebido como algo pessoal,
+    uma questão legal (ver mais informações no tópico 3 deste capítulo). Para o mediador, o problema é percebido como algo pessoal,
     com (certas) consequências no plano jurídico (Marlow).
 
 -   *O mediador não é psicólogo*: ele não faz psicoterapia, não trabalha
@@ -2160,13 +2157,11 @@ irrenunciáveis e nunca negociáveis:
 
 -   *Competência* – capacidade para efetivamente mediar o conflito,
     devendo aceitar a investidura de mediá-lo, quando efetivamente tiver
-    os requisitos mínimos e as qualificações necessárias para coor-
-    denar o processo.
+    os requisitos mínimos e as qualificações necessárias para coordenar o processo.
 
 -   *Confidencialidade* – significa que fatos, situações, documentos,
     informações e propostas, expostos durante a mediação, sejam mantidos
-    sob o necessário sigilo; atitude semelhante devem manter, ob-
-    rigatoriamente, aqueles que participaram do processo, em relação a
+    sob o necessário sigilo; atitude semelhante devem manter, obrigatoriamente, aqueles que participaram do processo, em relação a
     todo o conteúdo a ele referente, não podendo ser, eventualmente,
     chamados para testemunhar em situações ou em processos futuros, respeitando o princípio da autonomia da vontade das partes,
     nos termos por elas convencionados, desde que a ordem pública não
